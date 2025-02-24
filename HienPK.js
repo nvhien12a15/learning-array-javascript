@@ -1,6 +1,14 @@
 const heroes = ["Life Stealer", "Pudge", "SF", "POTM", "Juggernaut"];
-console.log(heroes[0]);
+// console.log(heroes[0]);
 
-heroes.forEach(hero => {
+/* heroes.forEach(hero => {
     console.log(hero);
 });
+
+
+
+heroes.forEach(hero =>{
+    console.log(hero);
+}); */
+    
+heroes.forEach(hero => console.log(hero));
